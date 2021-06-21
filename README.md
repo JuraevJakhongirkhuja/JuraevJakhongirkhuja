@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuraevJakhongirkhuja
+- 👋 Hi, I’m Juraev Jakhongirkhuja
 - 👀 I’m interested in Android development and Java.
 - 🌱 I’m currently learning Android development and Java.
 - 💞️ I’m looking to collaborate on ...
